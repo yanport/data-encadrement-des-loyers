@@ -11,6 +11,6 @@ apt-get install pdftohtml
 
 # Générer les données soi-mêmes
 ```
-. scripts/make_dhrip_json.sh
+. scripts/make_drihl_json.sh
 . scripts/make_olap_json.sh
 ```
