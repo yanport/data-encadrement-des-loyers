@@ -6,8 +6,10 @@ Réferences :
  - DRIHL : http://www.drihl.ile-de-france.developpement-durable.gouv.fr/le-dispositif-d-encadrement-des-loyers-a-paris-a3564.html
 
 # Install
+```
 pip install -r requirements.txt
 apt-get install pdftohtml
+```
 
 # Générer les données soi-mêmes
 ```
