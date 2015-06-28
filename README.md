@@ -1,4 +1,4 @@
-# Données brutes OLAP et DHRIP de l'encadrement des loyers
+# Données brutes OLAP et DHRIL de l'encadrement des loyers
 Parce que l'Etat et/ou observatoires ne sont pas capables ou ne veulent pas publier correctement leurs données.
 
 Réferences :
