@@ -1,6 +1,11 @@
 [
     {
-        "zoneId": "1",
+        "constructionPeriod": "< 1946",
+        "count": 177.0,
+        "std": 2.1,
+        "median": 31.3,
+        "q1": 26.1,
+        "roomCountCategory": "1",
         "quarterIds": [
             "23",
             "25",
@@ -9,15 +14,15 @@
             "28"
         ],
         "q3": 36.0,
-        "std": 2.1,
-        "count": 177.0,
-        "q1": 26.1,
-        "constructionPeriod": "< 1946",
-        "median": 31.3,
-        "roomCountCategory": "1"
+        "zoneId": "1"
     },
     {
-        "zoneId": "1",
+        "constructionPeriod": "< 1946",
+        "count": 197.0,
+        "std": 1.6,
+        "median": 28.0,
+        "q1": 23.5,
+        "roomCountCategory": "2",
         "quarterIds": [
             "23",
             "25",
@@ -26,15 +31,15 @@
             "28"
         ],
         "q3": 32.7,
-        "std": 1.6,
-        "count": 197.0,
-        "q1": 23.5,
-        "constructionPeriod": "< 1946",
-        "median": 28.0,
-        "roomCountCategory": "2"
+        "zoneId": "1"
     },
     {
-        "zoneId": "1",
+        "constructionPeriod": "< 1946",
+        "count": 104.0,
+        "std": 3.0,
+        "median": 26.4,
+        "q1": 21.5,
+        "roomCountCategory": "3",
         "quarterIds": [
             "23",
             "25",
@@ -43,15 +48,15 @@
             "28"
         ],
         "q3": 29.1,
-        "std": 3.0,
-        "count": 104.0,
-        "q1": 21.5,
-        "constructionPeriod": "< 1946",
-        "median": 26.4,
-        "roomCountCategory": "3"
+        "zoneId": "1"
     },
     {
-        "zoneId": "1",
+        "constructionPeriod": "< 1946",
+        "count": 251.0,
+        "std": 1.1,
+        "median": 27.3,
+        "q1": 22.8,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "23",
             "25",
@@ -60,15 +65,15 @@
             "28"
         ],
         "q3": 30.0,
-        "std": 1.1,
-        "count": 251.0,
-        "q1": 22.8,
-        "constructionPeriod": "< 1946",
-        "median": 27.3,
-        "roomCountCategory": "4 et +"
+        "zoneId": "1"
     },
     {
-        "zoneId": "2",
+        "constructionPeriod": "< 1946",
+        "count": 221.0,
+        "std": 1.5,
+        "median": 30.3,
+        "q1": 26.4,
+        "roomCountCategory": "1",
         "quarterIds": [
             "1",
             "3",
@@ -86,15 +91,15 @@
             "34"
         ],
         "q3": 33.8,
-        "std": 1.5,
-        "count": 221.0,
-        "q1": 26.4,
-        "constructionPeriod": "< 1946",
-        "median": 30.3,
-        "roomCountCategory": "1"
+        "zoneId": "2"
     },
     {
-        "zoneId": "2",
+        "constructionPeriod": "< 1946",
+        "count": 256.0,
+        "std": 1.8,
+        "median": 26.5,
+        "q1": 23.4,
+        "roomCountCategory": "2",
         "quarterIds": [
             "1",
             "3",
@@ -112,15 +117,15 @@
             "34"
         ],
         "q3": 30.2,
-        "std": 1.8,
-        "count": 256.0,
-        "q1": 23.4,
-        "constructionPeriod": "< 1946",
-        "median": 26.5,
-        "roomCountCategory": "2"
+        "zoneId": "2"
     },
     {
-        "zoneId": "2",
+        "constructionPeriod": "< 1946",
+        "count": 197.0,
+        "std": 2.1,
+        "median": 25.8,
+        "q1": 21.6,
+        "roomCountCategory": "3",
         "quarterIds": [
             "1",
             "3",
@@ -138,15 +143,15 @@
             "34"
         ],
         "q3": 29.0,
-        "std": 2.1,
-        "count": 197.0,
-        "q1": 21.6,
-        "constructionPeriod": "< 1946",
-        "median": 25.8,
-        "roomCountCategory": "3"
+        "zoneId": "2"
     },
     {
-        "zoneId": "2",
+        "constructionPeriod": "< 1946",
+        "count": 307.0,
+        "std": 0.5,
+        "median": 25.2,
+        "q1": 22.3,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "1",
             "3",
@@ -164,15 +169,15 @@
             "34"
         ],
         "q3": 28.1,
-        "std": 0.5,
-        "count": 307.0,
-        "q1": 22.3,
-        "constructionPeriod": "< 1946",
-        "median": 25.2,
-        "roomCountCategory": "4 et +"
+        "zoneId": "2"
     },
     {
-        "zoneId": "3",
+        "constructionPeriod": "< 1946",
+        "count": 128.0,
+        "std": 1.7,
+        "median": 26.7,
+        "q1": 23.3,
+        "roomCountCategory": "1",
         "quarterIds": [
             "32",
             "62",
@@ -180,15 +185,15 @@
             "64"
         ],
         "q3": 30.0,
-        "std": 1.7,
-        "count": 128.0,
-        "q1": 23.3,
-        "constructionPeriod": "< 1946",
-        "median": 26.7,
-        "roomCountCategory": "1"
+        "zoneId": "3"
     },
     {
-        "zoneId": "3",
+        "constructionPeriod": "1946-1970",
+        "count": 94.0,
+        "std": 0.2,
+        "median": 26.3,
+        "q1": 24.1,
+        "roomCountCategory": "1",
         "quarterIds": [
             "32",
             "62",
@@ -196,15 +201,15 @@
             "64"
         ],
         "q3": 29.0,
-        "std": 0.2,
-        "count": 94.0,
-        "q1": 24.1,
-        "constructionPeriod": "1946-1970",
-        "median": 26.3,
-        "roomCountCategory": "1"
+        "zoneId": "3"
     },
     {
-        "zoneId": "3",
+        "constructionPeriod": "< 1946",
+        "count": 139.0,
+        "std": 3.0,
+        "median": 25.2,
+        "q1": 21.8,
+        "roomCountCategory": "2",
         "quarterIds": [
             "32",
             "62",
@@ -212,15 +217,15 @@
             "64"
         ],
         "q3": 27.9,
-        "std": 3.0,
-        "count": 139.0,
-        "q1": 21.8,
-        "constructionPeriod": "< 1946",
-        "median": 25.2,
-        "roomCountCategory": "2"
+        "zoneId": "3"
     },
     {
-        "zoneId": "3",
+        "constructionPeriod": "1946-1970",
+        "count": 57.0,
+        "std": 1.7,
+        "median": 26.7,
+        "q1": 24.0,
+        "roomCountCategory": "2",
         "quarterIds": [
             "32",
             "62",
@@ -228,15 +233,15 @@
             "64"
         ],
         "q3": 29.5,
-        "std": 1.7,
-        "count": 57.0,
-        "q1": 24.0,
-        "constructionPeriod": "1946-1970",
-        "median": 26.7,
-        "roomCountCategory": "2"
+        "zoneId": "3"
     },
     {
-        "zoneId": "3",
+        "constructionPeriod": "< 1946",
+        "count": 138.0,
+        "std": 0.8,
+        "median": 24.2,
+        "q1": 22.0,
+        "roomCountCategory": "3",
         "quarterIds": [
             "32",
             "62",
@@ -244,15 +249,15 @@
             "64"
         ],
         "q3": 26.7,
-        "std": 0.8,
-        "count": 138.0,
-        "q1": 22.0,
-        "constructionPeriod": "< 1946",
-        "median": 24.2,
-        "roomCountCategory": "3"
+        "zoneId": "3"
     },
     {
-        "zoneId": "3",
+        "constructionPeriod": "< 1946",
+        "count": 401.0,
+        "std": 0.8,
+        "median": 23.1,
+        "q1": 20.1,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "32",
             "62",
@@ -260,15 +265,15 @@
             "64"
         ],
         "q3": 25.7,
-        "std": 0.8,
-        "count": 401.0,
-        "q1": 20.1,
-        "constructionPeriod": "< 1946",
-        "median": 23.1,
-        "roomCountCategory": "4 et +"
+        "zoneId": "3"
     },
     {
-        "zoneId": "3",
+        "constructionPeriod": "1946-1970",
+        "count": 54.0,
+        "std": 0.8,
+        "median": 23.8,
+        "q1": 21.3,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "32",
             "62",
@@ -276,15 +281,15 @@
             "64"
         ],
         "q3": 25.2,
-        "std": 0.8,
-        "count": 54.0,
-        "q1": 21.3,
-        "constructionPeriod": "1946-1970",
-        "median": 23.8,
-        "roomCountCategory": "4 et +"
+        "zoneId": "3"
     },
     {
-        "zoneId": "4",
+        "constructionPeriod": "< 1946",
+        "count": 186.0,
+        "std": 1.1,
+        "median": 27.8,
+        "q1": 24.9,
+        "roomCountCategory": "1",
         "quarterIds": [
             "6",
             "7",
@@ -299,15 +304,15 @@
             "20"
         ],
         "q3": 32.6,
-        "std": 1.1,
-        "count": 186.0,
-        "q1": 24.9,
-        "constructionPeriod": "< 1946",
-        "median": 27.8,
-        "roomCountCategory": "1"
+        "zoneId": "4"
     },
     {
-        "zoneId": "4",
+        "constructionPeriod": "< 1946",
+        "count": 290.0,
+        "std": 0.9,
+        "median": 26.3,
+        "q1": 23.4,
+        "roomCountCategory": "2",
         "quarterIds": [
             "6",
             "7",
@@ -322,15 +327,15 @@
             "20"
         ],
         "q3": 29.9,
-        "std": 0.9,
-        "count": 290.0,
-        "q1": 23.4,
-        "constructionPeriod": "< 1946",
-        "median": 26.3,
-        "roomCountCategory": "2"
+        "zoneId": "4"
     },
     {
-        "zoneId": "4",
+        "constructionPeriod": "< 1946",
+        "count": 218.0,
+        "std": 0.8,
+        "median": 24.1,
+        "q1": 21.0,
+        "roomCountCategory": "3",
         "quarterIds": [
             "6",
             "7",
@@ -345,15 +350,15 @@
             "20"
         ],
         "q3": 26.9,
-        "std": 0.8,
-        "count": 218.0,
-        "q1": 21.0,
-        "constructionPeriod": "< 1946",
-        "median": 24.1,
-        "roomCountCategory": "3"
+        "zoneId": "4"
     },
     {
-        "zoneId": "4",
+        "constructionPeriod": "< 1946",
+        "count": 218.0,
+        "std": 1.1,
+        "median": 24.0,
+        "q1": 21.0,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "6",
             "7",
@@ -368,15 +373,15 @@
             "20"
         ],
         "q3": 27.0,
-        "std": 1.1,
-        "count": 218.0,
-        "q1": 21.0,
-        "constructionPeriod": "< 1946",
-        "median": 24.0,
-        "roomCountCategory": "4 et +"
+        "zoneId": "4"
     },
     {
-        "zoneId": "5",
+        "constructionPeriod": "< 1946",
+        "count": 179.0,
+        "std": 1.3,
+        "median": 28.7,
+        "q1": 24.0,
+        "roomCountCategory": "1",
         "quarterIds": [
             "2",
             "33",
@@ -388,15 +393,15 @@
             "53"
         ],
         "q3": 32.6,
-        "std": 1.3,
-        "count": 179.0,
-        "q1": 24.0,
-        "constructionPeriod": "< 1946",
-        "median": 28.7,
-        "roomCountCategory": "1"
+        "zoneId": "5"
     },
     {
-        "zoneId": "5",
+        "constructionPeriod": "1946-1970",
+        "count": 91.0,
+        "std": 2.2,
+        "median": 23.3,
+        "q1": 20.1,
+        "roomCountCategory": "1",
         "quarterIds": [
             "2",
             "33",
@@ -408,15 +413,15 @@
             "53"
         ],
         "q3": 28.0,
-        "std": 2.2,
-        "count": 91.0,
-        "q1": 20.1,
-        "constructionPeriod": "1946-1970",
-        "median": 23.3,
-        "roomCountCategory": "1"
+        "zoneId": "5"
     },
     {
-        "zoneId": "5",
+        "constructionPeriod": "< 1946",
+        "count": 251.0,
+        "std": 0.8,
+        "median": 23.8,
+        "q1": 20.8,
+        "roomCountCategory": "2",
         "quarterIds": [
             "2",
             "33",
@@ -428,15 +433,15 @@
             "53"
         ],
         "q3": 26.6,
-        "std": 0.8,
-        "count": 251.0,
-        "q1": 20.8,
-        "constructionPeriod": "< 1946",
-        "median": 23.8,
-        "roomCountCategory": "2"
+        "zoneId": "5"
     },
     {
-        "zoneId": "5",
+        "constructionPeriod": "< 1946",
+        "count": 243.0,
+        "std": 0.8,
+        "median": 22.1,
+        "q1": 19.6,
+        "roomCountCategory": "3",
         "quarterIds": [
             "2",
             "33",
@@ -448,15 +453,15 @@
             "53"
         ],
         "q3": 25.1,
-        "std": 0.8,
-        "count": 243.0,
-        "q1": 19.6,
-        "constructionPeriod": "< 1946",
-        "median": 22.1,
-        "roomCountCategory": "3"
+        "zoneId": "5"
     },
     {
-        "zoneId": "5",
+        "constructionPeriod": "< 1946",
+        "count": 272.0,
+        "std": 0.5,
+        "median": 20.3,
+        "q1": 18.4,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "2",
             "33",
@@ -468,15 +473,15 @@
             "53"
         ],
         "q3": 23.3,
-        "std": 0.5,
-        "count": 272.0,
-        "q1": 18.4,
-        "constructionPeriod": "< 1946",
-        "median": 20.3,
-        "roomCountCategory": "4 et +"
+        "zoneId": "5"
     },
     {
-        "zoneId": "5",
+        "constructionPeriod": "1946-1970",
+        "count": 53.0,
+        "std": 0.9,
+        "median": 20.7,
+        "q1": 18.4,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "2",
             "33",
@@ -488,661 +493,661 @@
             "53"
         ],
         "q3": 23.5,
-        "std": 0.9,
-        "count": 53.0,
-        "q1": 18.4,
-        "constructionPeriod": "1946-1970",
-        "median": 20.7,
-        "roomCountCategory": "4 et +"
+        "zoneId": "5"
     },
     {
-        "zoneId": "6",
+        "constructionPeriod": "< 1946",
+        "count": 130.0,
+        "std": 1.6,
+        "median": 26.7,
+        "q1": 22.5,
+        "roomCountCategory": "1",
         "quarterIds": [
             "58",
             "65",
             "66"
         ],
         "q3": 31.1,
-        "std": 1.6,
-        "count": 130.0,
-        "q1": 22.5,
-        "constructionPeriod": "< 1946",
-        "median": 26.7,
-        "roomCountCategory": "1"
+        "zoneId": "6"
     },
     {
-        "zoneId": "6",
+        "constructionPeriod": "1946-1970",
+        "count": 203.0,
+        "std": 0.7,
+        "median": 25.0,
+        "q1": 23.1,
+        "roomCountCategory": "1",
         "quarterIds": [
             "58",
             "65",
             "66"
         ],
         "q3": 29.1,
-        "std": 0.7,
-        "count": 203.0,
-        "q1": 23.1,
-        "constructionPeriod": "1946-1970",
-        "median": 25.0,
-        "roomCountCategory": "1"
+        "zoneId": "6"
     },
     {
-        "zoneId": "6",
+        "constructionPeriod": "1971-1990",
+        "count": 186.0,
+        "std": 2.0,
+        "median": 26.4,
+        "q1": 23.5,
+        "roomCountCategory": "1",
         "quarterIds": [
             "58",
             "65",
             "66"
         ],
         "q3": 28.3,
-        "std": 2.0,
-        "count": 186.0,
-        "q1": 23.5,
-        "constructionPeriod": "1971-1990",
-        "median": 26.4,
-        "roomCountCategory": "1"
+        "zoneId": "6"
     },
     {
-        "zoneId": "6",
+        "constructionPeriod": "< 1946",
+        "count": 205.0,
+        "std": 2.9,
+        "median": 24.3,
+        "q1": 21.6,
+        "roomCountCategory": "2",
         "quarterIds": [
             "58",
             "65",
             "66"
         ],
         "q3": 27.5,
-        "std": 2.9,
-        "count": 205.0,
-        "q1": 21.6,
-        "constructionPeriod": "< 1946",
-        "median": 24.3,
-        "roomCountCategory": "2"
+        "zoneId": "6"
     },
     {
-        "zoneId": "6",
+        "constructionPeriod": "1946-1970",
+        "count": 129.0,
+        "std": 0.8,
+        "median": 22.7,
+        "q1": 21.7,
+        "roomCountCategory": "2",
         "quarterIds": [
             "58",
             "65",
             "66"
         ],
         "q3": 23.7,
-        "std": 0.8,
-        "count": 129.0,
-        "q1": 21.7,
-        "constructionPeriod": "1946-1970",
-        "median": 22.7,
-        "roomCountCategory": "2"
+        "zoneId": "6"
     },
     {
-        "zoneId": "6",
+        "constructionPeriod": "1971-1990",
+        "count": 112.0,
+        "std": 0.6,
+        "median": 24.0,
+        "q1": 21.5,
+        "roomCountCategory": "2",
         "quarterIds": [
             "58",
             "65",
             "66"
         ],
         "q3": 25.7,
-        "std": 0.6,
-        "count": 112.0,
-        "q1": 21.5,
-        "constructionPeriod": "1971-1990",
-        "median": 24.0,
-        "roomCountCategory": "2"
+        "zoneId": "6"
     },
     {
-        "zoneId": "6",
+        "constructionPeriod": "< 1946",
+        "count": 205.0,
+        "std": 1.2,
+        "median": 22.9,
+        "q1": 19.5,
+        "roomCountCategory": "3",
         "quarterIds": [
             "58",
             "65",
             "66"
         ],
         "q3": 25.6,
-        "std": 1.2,
-        "count": 205.0,
-        "q1": 19.5,
-        "constructionPeriod": "< 1946",
-        "median": 22.9,
-        "roomCountCategory": "3"
+        "zoneId": "6"
     },
     {
-        "zoneId": "6",
+        "constructionPeriod": "1946-1970",
+        "count": 51.0,
+        "std": 0.5,
+        "median": 20.9,
+        "q1": 19.1,
+        "roomCountCategory": "3",
         "quarterIds": [
             "58",
             "65",
             "66"
         ],
         "q3": 23.4,
-        "std": 0.5,
-        "count": 51.0,
-        "q1": 19.1,
-        "constructionPeriod": "1946-1970",
-        "median": 20.9,
-        "roomCountCategory": "3"
+        "zoneId": "6"
     },
     {
-        "zoneId": "6",
+        "constructionPeriod": "< 1946",
+        "count": 367.0,
+        "std": 0.9,
+        "median": 22.9,
+        "q1": 20.2,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "58",
             "65",
             "66"
         ],
         "q3": 25.1,
-        "std": 0.9,
-        "count": 367.0,
-        "q1": 20.2,
-        "constructionPeriod": "< 1946",
-        "median": 22.9,
-        "roomCountCategory": "4 et +"
+        "zoneId": "6"
     },
     {
-        "zoneId": "6",
+        "constructionPeriod": "1946-1970",
+        "count": 153.0,
+        "std": 0.6,
+        "median": 19.9,
+        "q1": 17.0,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "58",
             "65",
             "66"
         ],
         "q3": 21.8,
-        "std": 0.6,
-        "count": 153.0,
-        "q1": 17.0,
-        "constructionPeriod": "1946-1970",
-        "median": 19.9,
-        "roomCountCategory": "4 et +"
+        "zoneId": "6"
     },
     {
-        "zoneId": "6",
+        "constructionPeriod": "1971-1990",
+        "count": 123.0,
+        "std": 0.3,
+        "median": 22.1,
+        "q1": 20.4,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "58",
             "65",
             "66"
         ],
         "q3": 23.9,
-        "std": 0.3,
-        "count": 123.0,
-        "q1": 20.4,
-        "constructionPeriod": "1971-1990",
-        "median": 22.1,
-        "roomCountCategory": "4 et +"
+        "zoneId": "6"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "< 1946",
+        "count": 122.0,
+        "std": 3.6,
+        "median": 26.4,
+        "q1": 22.9,
+        "roomCountCategory": "1",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 32.7,
-        "std": 3.6,
-        "count": 122.0,
-        "q1": 22.9,
-        "constructionPeriod": "< 1946",
-        "median": 26.4,
-        "roomCountCategory": "1"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "1946-1970",
+        "count": 194.0,
+        "std": 2.1,
+        "median": 25.1,
+        "q1": 21.2,
+        "roomCountCategory": "1",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 30.7,
-        "std": 2.1,
-        "count": 194.0,
-        "q1": 21.2,
-        "constructionPeriod": "1946-1970",
-        "median": 25.1,
-        "roomCountCategory": "1"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "1971-1990",
+        "count": 111.0,
+        "std": 1.0,
+        "median": 24.9,
+        "q1": 23.3,
+        "roomCountCategory": "1",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 27.3,
-        "std": 1.0,
-        "count": 111.0,
-        "q1": 23.3,
-        "constructionPeriod": "1971-1990",
-        "median": 24.9,
-        "roomCountCategory": "1"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "> 1990",
+        "count": 92.0,
+        "std": 3.0,
+        "median": 27.9,
+        "q1": 25.1,
+        "roomCountCategory": "1",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 32.8,
-        "std": 3.0,
-        "count": 92.0,
-        "q1": 25.1,
-        "constructionPeriod": "> 1990",
-        "median": 27.9,
-        "roomCountCategory": "1"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "< 1946",
+        "count": 184.0,
+        "std": 1.1,
+        "median": 23.5,
+        "q1": 19.7,
+        "roomCountCategory": "2",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 26.4,
-        "std": 1.1,
-        "count": 184.0,
-        "q1": 19.7,
-        "constructionPeriod": "< 1946",
-        "median": 23.5,
-        "roomCountCategory": "2"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "1946-1970",
+        "count": 212.0,
+        "std": 0.9,
+        "median": 22.6,
+        "q1": 19.7,
+        "roomCountCategory": "2",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 25.3,
-        "std": 0.9,
-        "count": 212.0,
-        "q1": 19.7,
-        "constructionPeriod": "1946-1970",
-        "median": 22.6,
-        "roomCountCategory": "2"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "1971-1990",
+        "count": 64.0,
+        "std": 1.3,
+        "median": 23.0,
+        "q1": 20.0,
+        "roomCountCategory": "2",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 24.2,
-        "std": 1.3,
-        "count": 64.0,
-        "q1": 20.0,
-        "constructionPeriod": "1971-1990",
-        "median": 23.0,
-        "roomCountCategory": "2"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "> 1990",
+        "count": 115.0,
+        "std": 3.8,
+        "median": 25.4,
+        "q1": 23.2,
+        "roomCountCategory": "2",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 28.7,
-        "std": 3.8,
-        "count": 115.0,
-        "q1": 23.2,
-        "constructionPeriod": "> 1990",
-        "median": 25.4,
-        "roomCountCategory": "2"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "< 1946",
+        "count": 140.0,
+        "std": 2.5,
+        "median": 22.2,
+        "q1": 19.6,
+        "roomCountCategory": "3",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 27.0,
-        "std": 2.5,
-        "count": 140.0,
-        "q1": 19.6,
-        "constructionPeriod": "< 1946",
-        "median": 22.2,
-        "roomCountCategory": "3"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "1946-1970",
+        "count": 216.0,
+        "std": 1.5,
+        "median": 22.2,
+        "q1": 19.0,
+        "roomCountCategory": "3",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 24.6,
-        "std": 1.5,
-        "count": 216.0,
-        "q1": 19.0,
-        "constructionPeriod": "1946-1970",
-        "median": 22.2,
-        "roomCountCategory": "3"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "1971-1990",
+        "count": 54.0,
+        "std": 1.8,
+        "median": 22.7,
+        "q1": 21.8,
+        "roomCountCategory": "3",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 25.3,
-        "std": 1.8,
-        "count": 54.0,
-        "q1": 21.8,
-        "constructionPeriod": "1971-1990",
-        "median": 22.7,
-        "roomCountCategory": "3"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "> 1990",
+        "count": 76.0,
+        "std": 0.0,
+        "median": 23.2,
+        "q1": 21.8,
+        "roomCountCategory": "3",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 26.1,
-        "std": 0.0,
-        "count": 76.0,
-        "q1": 21.8,
-        "constructionPeriod": "> 1990",
-        "median": 23.2,
-        "roomCountCategory": "3"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "< 1946",
+        "count": 134.0,
+        "std": 0.9,
+        "median": 21.4,
+        "q1": 19.3,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 24.3,
-        "std": 0.9,
-        "count": 134.0,
-        "q1": 19.3,
-        "constructionPeriod": "< 1946",
-        "median": 21.4,
-        "roomCountCategory": "4 et +"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "1946-1970",
+        "count": 384.0,
+        "std": 0.5,
+        "median": 21.9,
+        "q1": 18.1,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 23.9,
-        "std": 0.5,
-        "count": 384.0,
-        "q1": 18.1,
-        "constructionPeriod": "1946-1970",
-        "median": 21.9,
-        "roomCountCategory": "4 et +"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "1971-1990",
+        "count": 85.0,
+        "std": 0.6,
+        "median": 22.2,
+        "q1": 20.7,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 24.1,
-        "std": 0.6,
-        "count": 85.0,
-        "q1": 20.7,
-        "constructionPeriod": "1971-1990",
-        "median": 22.2,
-        "roomCountCategory": "4 et +"
+        "zoneId": "7"
     },
     {
-        "zoneId": "7",
+        "constructionPeriod": "> 1990",
+        "count": 135.0,
+        "std": 1.1,
+        "median": 23.4,
+        "q1": 20.4,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "59",
             "60",
             "61"
         ],
         "q3": 25.2,
-        "std": 1.1,
-        "count": 135.0,
-        "q1": 20.4,
-        "constructionPeriod": "> 1990",
-        "median": 23.4,
-        "roomCountCategory": "4 et +"
+        "zoneId": "7"
     },
     {
-        "zoneId": "8",
+        "constructionPeriod": "< 1946",
+        "count": 83.0,
+        "std": 1.8,
+        "median": 25.9,
+        "q1": 22.6,
+        "roomCountCategory": "1",
         "quarterIds": [
             "57"
         ],
         "q3": 31.4,
-        "std": 1.8,
-        "count": 83.0,
-        "q1": 22.6,
-        "constructionPeriod": "< 1946",
-        "median": 25.9,
-        "roomCountCategory": "1"
+        "zoneId": "8"
     },
     {
-        "zoneId": "8",
+        "constructionPeriod": "1946-1970",
+        "count": 427.0,
+        "std": 0.4,
+        "median": 24.4,
+        "q1": 21.8,
+        "roomCountCategory": "1",
         "quarterIds": [
             "57"
         ],
         "q3": 26.2,
-        "std": 0.4,
-        "count": 427.0,
-        "q1": 21.8,
-        "constructionPeriod": "1946-1970",
-        "median": 24.4,
-        "roomCountCategory": "1"
+        "zoneId": "8"
     },
     {
-        "zoneId": "8",
+        "constructionPeriod": "< 1946",
+        "count": 155.0,
+        "std": 1.0,
+        "median": 22.7,
+        "q1": 20.4,
+        "roomCountCategory": "2",
         "quarterIds": [
             "57"
         ],
         "q3": 25.8,
-        "std": 1.0,
-        "count": 155.0,
-        "q1": 20.4,
-        "constructionPeriod": "< 1946",
-        "median": 22.7,
-        "roomCountCategory": "2"
+        "zoneId": "8"
     },
     {
-        "zoneId": "8",
+        "constructionPeriod": "1946-1970",
+        "count": 262.0,
+        "std": 0.3,
+        "median": 21.4,
+        "q1": 19.8,
+        "roomCountCategory": "2",
         "quarterIds": [
             "57"
         ],
         "q3": 23.1,
-        "std": 0.3,
-        "count": 262.0,
-        "q1": 19.8,
-        "constructionPeriod": "1946-1970",
-        "median": 21.4,
-        "roomCountCategory": "2"
+        "zoneId": "8"
     },
     {
-        "zoneId": "8",
+        "constructionPeriod": "< 1946",
+        "count": 75.0,
+        "std": 0.5,
+        "median": 21.8,
+        "q1": 20.3,
+        "roomCountCategory": "3",
         "quarterIds": [
             "57"
         ],
         "q3": 23.3,
-        "std": 0.5,
-        "count": 75.0,
-        "q1": 20.3,
-        "constructionPeriod": "< 1946",
-        "median": 21.8,
-        "roomCountCategory": "3"
+        "zoneId": "8"
     },
     {
-        "zoneId": "8",
+        "constructionPeriod": "1946-1970",
+        "count": 152.0,
+        "std": 1.2,
+        "median": 21.5,
+        "q1": 19.1,
+        "roomCountCategory": "3",
         "quarterIds": [
             "57"
         ],
         "q3": 24.8,
-        "std": 1.2,
-        "count": 152.0,
-        "q1": 19.1,
-        "constructionPeriod": "1946-1970",
-        "median": 21.5,
-        "roomCountCategory": "3"
+        "zoneId": "8"
     },
     {
-        "zoneId": "8",
+        "constructionPeriod": "1946-1970",
+        "count": 218.0,
+        "std": 0.2,
+        "median": 20.0,
+        "q1": 17.9,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "57"
         ],
         "q3": 21.1,
-        "std": 0.2,
-        "count": 218.0,
-        "q1": 17.9,
-        "constructionPeriod": "1946-1970",
-        "median": 20.0,
-        "roomCountCategory": "4 et +"
+        "zoneId": "8"
     },
     {
-        "zoneId": "9",
+        "constructionPeriod": "< 1946",
+        "count": 184.0,
+        "std": 1.4,
+        "median": 25.2,
+        "q1": 22.4,
+        "roomCountCategory": "1",
         "quarterIds": [
             "46",
             "69",
             "70"
         ],
         "q3": 29.4,
-        "std": 1.4,
-        "count": 184.0,
-        "q1": 22.4,
-        "constructionPeriod": "< 1946",
-        "median": 25.2,
-        "roomCountCategory": "1"
+        "zoneId": "9"
     },
     {
-        "zoneId": "9",
-        "quarterIds": [
-            "46",
-            "69",
-            "70"
-        ],
-        "q3": 24.2,
-        "std": 0.5,
+        "constructionPeriod": "1946-1970",
         "count": 139.0,
-        "q1": 18.6,
-        "constructionPeriod": "1946-1970",
+        "std": 0.5,
         "median": 20.8,
-        "roomCountCategory": "1"
-    },
-    {
-        "zoneId": "9",
-        "quarterIds": [
-            "46",
-            "69",
-            "70"
-        ],
-        "q3": 26.2,
-        "std": 1.5,
-        "count": 105.0,
-        "q1": 19.7,
-        "constructionPeriod": "1971-1990",
-        "median": 23.6,
-        "roomCountCategory": "1"
-    },
-    {
-        "zoneId": "9",
+        "q1": 18.6,
+        "roomCountCategory": "1",
         "quarterIds": [
             "46",
             "69",
             "70"
         ],
         "q3": 24.2,
-        "std": 0.7,
-        "count": 384.0,
-        "q1": 19.0,
-        "constructionPeriod": "< 1946",
-        "median": 22.0,
-        "roomCountCategory": "2"
+        "zoneId": "9"
     },
     {
-        "zoneId": "9",
+        "constructionPeriod": "1971-1990",
+        "count": 105.0,
+        "std": 1.5,
+        "median": 23.6,
+        "q1": 19.7,
+        "roomCountCategory": "1",
         "quarterIds": [
             "46",
             "69",
             "70"
         ],
         "q3": 26.2,
-        "std": 2.9,
-        "count": 123.0,
-        "q1": 14.6,
-        "constructionPeriod": "1946-1970",
-        "median": 20.2,
-        "roomCountCategory": "2"
+        "zoneId": "9"
     },
     {
-        "zoneId": "9",
+        "constructionPeriod": "< 1946",
+        "count": 384.0,
+        "std": 0.7,
+        "median": 22.0,
+        "q1": 19.0,
+        "roomCountCategory": "2",
+        "quarterIds": [
+            "46",
+            "69",
+            "70"
+        ],
+        "q3": 24.2,
+        "zoneId": "9"
+    },
+    {
+        "constructionPeriod": "1946-1970",
+        "count": 123.0,
+        "std": 2.9,
+        "median": 20.2,
+        "q1": 14.6,
+        "roomCountCategory": "2",
+        "quarterIds": [
+            "46",
+            "69",
+            "70"
+        ],
+        "q3": 26.2,
+        "zoneId": "9"
+    },
+    {
+        "constructionPeriod": "1971-1990",
+        "count": 67.0,
+        "std": 1.0,
+        "median": 22.9,
+        "q1": 20.1,
+        "roomCountCategory": "2",
         "quarterIds": [
             "46",
             "69",
             "70"
         ],
         "q3": 24.6,
-        "std": 1.0,
-        "count": 67.0,
-        "q1": 20.1,
-        "constructionPeriod": "1971-1990",
-        "median": 22.9,
-        "roomCountCategory": "2"
+        "zoneId": "9"
     },
     {
-        "zoneId": "9",
+        "constructionPeriod": "> 1990",
+        "count": 71.0,
+        "std": 1.3,
+        "median": 21.6,
+        "q1": 20.7,
+        "roomCountCategory": "2",
         "quarterIds": [
             "46",
             "69",
             "70"
         ],
         "q3": 23.3,
-        "std": 1.3,
-        "count": 71.0,
-        "q1": 20.7,
-        "constructionPeriod": "> 1990",
-        "median": 21.6,
-        "roomCountCategory": "2"
+        "zoneId": "9"
     },
     {
-        "zoneId": "9",
+        "constructionPeriod": "< 1946",
+        "count": 195.0,
+        "std": 0.8,
+        "median": 20.2,
+        "q1": 16.7,
+        "roomCountCategory": "3",
         "quarterIds": [
             "46",
             "69",
             "70"
         ],
         "q3": 23.0,
-        "std": 0.8,
-        "count": 195.0,
-        "q1": 16.7,
-        "constructionPeriod": "< 1946",
-        "median": 20.2,
-        "roomCountCategory": "3"
+        "zoneId": "9"
     },
     {
-        "zoneId": "9",
+        "constructionPeriod": "> 1990",
+        "count": 51.0,
+        "std": 1.7,
+        "median": 23.5,
+        "q1": 22.0,
+        "roomCountCategory": "3",
         "quarterIds": [
             "46",
             "69",
             "70"
         ],
         "q3": 24.3,
-        "std": 1.7,
-        "count": 51.0,
-        "q1": 22.0,
-        "constructionPeriod": "> 1990",
-        "median": 23.5,
-        "roomCountCategory": "3"
+        "zoneId": "9"
     },
     {
-        "zoneId": "9",
+        "constructionPeriod": "< 1946",
+        "count": 105.0,
+        "std": 1.0,
+        "median": 20.4,
+        "q1": 16.4,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "46",
             "69",
             "70"
         ],
         "q3": 23.2,
-        "std": 1.0,
-        "count": 105.0,
-        "q1": 16.4,
-        "constructionPeriod": "< 1946",
-        "median": 20.4,
-        "roomCountCategory": "4 et +"
+        "zoneId": "9"
     },
     {
-        "zoneId": "10",
+        "constructionPeriod": "< 1946",
+        "count": 199.0,
+        "std": 1.5,
+        "median": 27.0,
+        "q1": 23.0,
+        "roomCountCategory": "1",
         "quarterIds": [
             "18",
             "42",
@@ -1152,15 +1157,15 @@
             "67"
         ],
         "q3": 32.2,
-        "std": 1.5,
-        "count": 199.0,
-        "q1": 23.0,
-        "constructionPeriod": "< 1946",
-        "median": 27.0,
-        "roomCountCategory": "1"
+        "zoneId": "10"
     },
     {
-        "zoneId": "10",
+        "constructionPeriod": "1946-1970",
+        "count": 56.0,
+        "std": 1.1,
+        "median": 23.8,
+        "q1": 20.5,
+        "roomCountCategory": "1",
         "quarterIds": [
             "18",
             "42",
@@ -1170,15 +1175,15 @@
             "67"
         ],
         "q3": 28.4,
-        "std": 1.1,
-        "count": 56.0,
-        "q1": 20.5,
-        "constructionPeriod": "1946-1970",
-        "median": 23.8,
-        "roomCountCategory": "1"
+        "zoneId": "10"
     },
     {
-        "zoneId": "10",
+        "constructionPeriod": "1971-1990",
+        "count": 104.0,
+        "std": 1.7,
+        "median": 26.0,
+        "q1": 22.1,
+        "roomCountCategory": "1",
         "quarterIds": [
             "18",
             "42",
@@ -1188,15 +1193,15 @@
             "67"
         ],
         "q3": 29.1,
-        "std": 1.7,
-        "count": 104.0,
-        "q1": 22.1,
-        "constructionPeriod": "1971-1990",
-        "median": 26.0,
-        "roomCountCategory": "1"
+        "zoneId": "10"
     },
     {
-        "zoneId": "10",
+        "constructionPeriod": "< 1946",
+        "count": 375.0,
+        "std": 0.6,
+        "median": 23.1,
+        "q1": 20.0,
+        "roomCountCategory": "2",
         "quarterIds": [
             "18",
             "42",
@@ -1206,15 +1211,15 @@
             "67"
         ],
         "q3": 25.5,
-        "std": 0.6,
-        "count": 375.0,
-        "q1": 20.0,
-        "constructionPeriod": "< 1946",
-        "median": 23.1,
-        "roomCountCategory": "2"
+        "zoneId": "10"
     },
     {
-        "zoneId": "10",
+        "constructionPeriod": "1971-1990",
+        "count": 70.0,
+        "std": 3.1,
+        "median": 22.4,
+        "q1": 19.9,
+        "roomCountCategory": "2",
         "quarterIds": [
             "18",
             "42",
@@ -1224,15 +1229,15 @@
             "67"
         ],
         "q3": 24.8,
-        "std": 3.1,
-        "count": 70.0,
-        "q1": 19.9,
-        "constructionPeriod": "1971-1990",
-        "median": 22.4,
-        "roomCountCategory": "2"
+        "zoneId": "10"
     },
     {
-        "zoneId": "10",
+        "constructionPeriod": "< 1946",
+        "count": 233.0,
+        "std": 0.8,
+        "median": 21.7,
+        "q1": 18.5,
+        "roomCountCategory": "3",
         "quarterIds": [
             "18",
             "42",
@@ -1242,15 +1247,15 @@
             "67"
         ],
         "q3": 24.5,
-        "std": 0.8,
-        "count": 233.0,
-        "q1": 18.5,
-        "constructionPeriod": "< 1946",
-        "median": 21.7,
-        "roomCountCategory": "3"
+        "zoneId": "10"
     },
     {
-        "zoneId": "10",
+        "constructionPeriod": "< 1946",
+        "count": 163.0,
+        "std": 0.7,
+        "median": 19.8,
+        "q1": 16.9,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "18",
             "42",
@@ -1260,15 +1265,15 @@
             "67"
         ],
         "q3": 22.7,
-        "std": 0.7,
-        "count": 163.0,
-        "q1": 16.9,
-        "constructionPeriod": "< 1946",
-        "median": 19.8,
-        "roomCountCategory": "4 et +"
+        "zoneId": "10"
     },
     {
-        "zoneId": "11",
+        "constructionPeriod": "< 1946",
+        "count": 217.0,
+        "std": 0.8,
+        "median": 28.2,
+        "q1": 23.4,
+        "roomCountCategory": "1",
         "quarterIds": [
             "39",
             "40",
@@ -1281,15 +1286,15 @@
             "77"
         ],
         "q3": 32.3,
-        "std": 0.8,
-        "count": 217.0,
-        "q1": 23.4,
-        "constructionPeriod": "< 1946",
-        "median": 28.2,
-        "roomCountCategory": "1"
+        "zoneId": "11"
     },
     {
-        "zoneId": "11",
+        "constructionPeriod": "1946-1970",
+        "count": 123.0,
+        "std": 1.4,
+        "median": 21.8,
+        "q1": 19.3,
+        "roomCountCategory": "1",
         "quarterIds": [
             "39",
             "40",
@@ -1302,15 +1307,15 @@
             "77"
         ],
         "q3": 24.6,
-        "std": 1.4,
-        "count": 123.0,
-        "q1": 19.3,
-        "constructionPeriod": "1946-1970",
-        "median": 21.8,
-        "roomCountCategory": "1"
+        "zoneId": "11"
     },
     {
-        "zoneId": "11",
+        "constructionPeriod": "1971-1990",
+        "count": 90.0,
+        "std": 1.7,
+        "median": 22.4,
+        "q1": 20.0,
+        "roomCountCategory": "1",
         "quarterIds": [
             "39",
             "40",
@@ -1323,15 +1328,15 @@
             "77"
         ],
         "q3": 24.9,
-        "std": 1.7,
-        "count": 90.0,
-        "q1": 20.0,
-        "constructionPeriod": "1971-1990",
-        "median": 22.4,
-        "roomCountCategory": "1"
+        "zoneId": "11"
     },
     {
-        "zoneId": "11",
+        "constructionPeriod": "> 1990",
+        "count": 53.0,
+        "std": 3.8,
+        "median": 22.8,
+        "q1": 20.5,
+        "roomCountCategory": "1",
         "quarterIds": [
             "39",
             "40",
@@ -1344,15 +1349,15 @@
             "77"
         ],
         "q3": 29.5,
-        "std": 3.8,
-        "count": 53.0,
-        "q1": 20.5,
-        "constructionPeriod": "> 1990",
-        "median": 22.8,
-        "roomCountCategory": "1"
+        "zoneId": "11"
     },
     {
-        "zoneId": "11",
+        "constructionPeriod": "< 1946",
+        "count": 423.0,
+        "std": 0.6,
+        "median": 22.5,
+        "q1": 19.7,
+        "roomCountCategory": "2",
         "quarterIds": [
             "39",
             "40",
@@ -1365,15 +1370,15 @@
             "77"
         ],
         "q3": 25.3,
-        "std": 0.6,
-        "count": 423.0,
-        "q1": 19.7,
-        "constructionPeriod": "< 1946",
-        "median": 22.5,
-        "roomCountCategory": "2"
+        "zoneId": "11"
     },
     {
-        "zoneId": "11",
+        "constructionPeriod": "1946-1970",
+        "count": 56.0,
+        "std": 2.6,
+        "median": 23.1,
+        "q1": 17.5,
+        "roomCountCategory": "2",
         "quarterIds": [
             "39",
             "40",
@@ -1386,15 +1391,15 @@
             "77"
         ],
         "q3": 27.3,
-        "std": 2.6,
-        "count": 56.0,
-        "q1": 17.5,
-        "constructionPeriod": "1946-1970",
-        "median": 23.1,
-        "roomCountCategory": "2"
+        "zoneId": "11"
     },
     {
-        "zoneId": "11",
+        "constructionPeriod": "1971-1990",
+        "count": 53.0,
+        "std": 2.3,
+        "median": 21.6,
+        "q1": 19.8,
+        "roomCountCategory": "2",
         "quarterIds": [
             "39",
             "40",
@@ -1407,15 +1412,15 @@
             "77"
         ],
         "q3": 26.5,
-        "std": 2.3,
-        "count": 53.0,
-        "q1": 19.8,
-        "constructionPeriod": "1971-1990",
-        "median": 21.6,
-        "roomCountCategory": "2"
+        "zoneId": "11"
     },
     {
-        "zoneId": "11",
+        "constructionPeriod": "> 1990",
+        "count": 63.0,
+        "std": 2.6,
+        "median": 24.4,
+        "q1": 19.1,
+        "roomCountCategory": "2",
         "quarterIds": [
             "39",
             "40",
@@ -1428,15 +1433,15 @@
             "77"
         ],
         "q3": 28.2,
-        "std": 2.6,
-        "count": 63.0,
-        "q1": 19.1,
-        "constructionPeriod": "> 1990",
-        "median": 24.4,
-        "roomCountCategory": "2"
+        "zoneId": "11"
     },
     {
-        "zoneId": "11",
+        "constructionPeriod": "< 1946",
+        "count": 239.0,
+        "std": 0.7,
+        "median": 21.6,
+        "q1": 18.3,
+        "roomCountCategory": "3",
         "quarterIds": [
             "39",
             "40",
@@ -1449,15 +1454,15 @@
             "77"
         ],
         "q3": 23.5,
-        "std": 0.7,
-        "count": 239.0,
-        "q1": 18.3,
-        "constructionPeriod": "< 1946",
-        "median": 21.6,
-        "roomCountCategory": "3"
+        "zoneId": "11"
     },
     {
-        "zoneId": "11",
+        "constructionPeriod": "< 1946",
+        "count": 131.0,
+        "std": 0.8,
+        "median": 19.0,
+        "q1": 16.7,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "39",
             "40",
@@ -1470,169 +1475,169 @@
             "77"
         ],
         "q3": 22.0,
-        "std": 0.8,
-        "count": 131.0,
-        "q1": 16.7,
-        "constructionPeriod": "< 1946",
-        "median": 19.0,
-        "roomCountCategory": "4 et +"
+        "zoneId": "11"
     },
     {
-        "zoneId": "12",
+        "constructionPeriod": "< 1946",
+        "count": 61.0,
+        "std": 1.7,
+        "median": 29.4,
+        "q1": 25.0,
+        "roomCountCategory": "1",
         "quarterIds": [
             "51",
             "56"
         ],
         "q3": 31.5,
-        "std": 1.7,
-        "count": 61.0,
-        "q1": 25.0,
-        "constructionPeriod": "< 1946",
-        "median": 29.4,
-        "roomCountCategory": "1"
+        "zoneId": "12"
     },
     {
-        "zoneId": "12",
+        "constructionPeriod": "1946-1970",
+        "count": 136.0,
+        "std": 1.1,
+        "median": 22.7,
+        "q1": 17.9,
+        "roomCountCategory": "1",
         "quarterIds": [
             "51",
             "56"
         ],
         "q3": 25.6,
-        "std": 1.1,
-        "count": 136.0,
-        "q1": 17.9,
-        "constructionPeriod": "1946-1970",
-        "median": 22.7,
-        "roomCountCategory": "1"
+        "zoneId": "12"
     },
     {
-        "zoneId": "12",
+        "constructionPeriod": "1971-1990",
+        "count": 75.0,
+        "std": 1.7,
+        "median": 23.2,
+        "q1": 19.8,
+        "roomCountCategory": "1",
         "quarterIds": [
             "51",
             "56"
         ],
         "q3": 27.0,
-        "std": 1.7,
-        "count": 75.0,
-        "q1": 19.8,
-        "constructionPeriod": "1971-1990",
-        "median": 23.2,
-        "roomCountCategory": "1"
+        "zoneId": "12"
     },
     {
-        "zoneId": "12",
+        "constructionPeriod": "< 1946",
+        "count": 134.0,
+        "std": 1.2,
+        "median": 23.9,
+        "q1": 20.0,
+        "roomCountCategory": "2",
         "quarterIds": [
             "51",
             "56"
         ],
         "q3": 26.6,
-        "std": 1.2,
-        "count": 134.0,
-        "q1": 20.0,
-        "constructionPeriod": "< 1946",
-        "median": 23.9,
-        "roomCountCategory": "2"
+        "zoneId": "12"
     },
     {
-        "zoneId": "12",
+        "constructionPeriod": "1946-1970",
+        "count": 198.0,
+        "std": 1.2,
+        "median": 20.8,
+        "q1": 19.0,
+        "roomCountCategory": "2",
         "quarterIds": [
             "51",
             "56"
         ],
         "q3": 22.2,
-        "std": 1.2,
-        "count": 198.0,
-        "q1": 19.0,
-        "constructionPeriod": "1946-1970",
-        "median": 20.8,
-        "roomCountCategory": "2"
+        "zoneId": "12"
     },
     {
-        "zoneId": "12",
+        "constructionPeriod": "1971-1990",
+        "count": 105.0,
+        "std": 1.2,
+        "median": 20.0,
+        "q1": 18.9,
+        "roomCountCategory": "2",
         "quarterIds": [
             "51",
             "56"
         ],
         "q3": 22.5,
-        "std": 1.2,
-        "count": 105.0,
-        "q1": 18.9,
-        "constructionPeriod": "1971-1990",
-        "median": 20.0,
-        "roomCountCategory": "2"
+        "zoneId": "12"
     },
     {
-        "zoneId": "12",
+        "constructionPeriod": "< 1946",
+        "count": 99.0,
+        "std": 1.1,
+        "median": 21.3,
+        "q1": 19.8,
+        "roomCountCategory": "3",
         "quarterIds": [
             "51",
             "56"
         ],
         "q3": 23.6,
-        "std": 1.1,
-        "count": 99.0,
-        "q1": 19.8,
-        "constructionPeriod": "< 1946",
-        "median": 21.3,
-        "roomCountCategory": "3"
+        "zoneId": "12"
     },
     {
-        "zoneId": "12",
+        "constructionPeriod": "1946-1970",
+        "count": 170.0,
+        "std": 1.3,
+        "median": 21.4,
+        "q1": 18.2,
+        "roomCountCategory": "3",
         "quarterIds": [
             "51",
             "56"
         ],
         "q3": 22.5,
-        "std": 1.3,
-        "count": 170.0,
-        "q1": 18.2,
-        "constructionPeriod": "1946-1970",
-        "median": 21.4,
-        "roomCountCategory": "3"
+        "zoneId": "12"
     },
     {
-        "zoneId": "12",
+        "constructionPeriod": "1971-1990",
+        "count": 110.0,
+        "std": 0.0,
+        "median": 20.9,
+        "q1": 19.4,
+        "roomCountCategory": "3",
         "quarterIds": [
             "51",
             "56"
         ],
         "q3": 22.6,
-        "std": 0.0,
-        "count": 110.0,
-        "q1": 19.4,
-        "constructionPeriod": "1971-1990",
-        "median": 20.9,
-        "roomCountCategory": "3"
+        "zoneId": "12"
     },
     {
-        "zoneId": "12",
+        "constructionPeriod": "1946-1970",
+        "count": 212.0,
+        "std": 0.4,
+        "median": 18.9,
+        "q1": 16.4,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "51",
             "56"
         ],
         "q3": 21.0,
-        "std": 0.4,
-        "count": 212.0,
-        "q1": 16.4,
-        "constructionPeriod": "1946-1970",
-        "median": 18.9,
-        "roomCountCategory": "4 et +"
+        "zoneId": "12"
     },
     {
-        "zoneId": "12",
+        "constructionPeriod": "1971-1990",
+        "count": 75.0,
+        "std": 0.9,
+        "median": 19.1,
+        "q1": 16.6,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "51",
             "56"
         ],
         "q3": 21.3,
-        "std": 0.9,
-        "count": 75.0,
-        "q1": 16.6,
-        "constructionPeriod": "1971-1990",
-        "median": 19.1,
-        "roomCountCategory": "4 et +"
+        "zoneId": "12"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "< 1946",
+        "count": 88.0,
+        "std": 1.3,
+        "median": 25.0,
+        "q1": 21.5,
+        "roomCountCategory": "1",
         "quarterIds": [
             "50",
             "72",
@@ -1643,15 +1648,15 @@
             "80"
         ],
         "q3": 29.8,
-        "std": 1.3,
-        "count": 88.0,
-        "q1": 21.5,
-        "constructionPeriod": "< 1946",
-        "median": 25.0,
-        "roomCountCategory": "1"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "1946-1970",
+        "count": 175.0,
+        "std": 0.7,
+        "median": 20.4,
+        "q1": 18.3,
+        "roomCountCategory": "1",
         "quarterIds": [
             "50",
             "72",
@@ -1662,15 +1667,15 @@
             "80"
         ],
         "q3": 23.1,
-        "std": 0.7,
-        "count": 175.0,
-        "q1": 18.3,
-        "constructionPeriod": "1946-1970",
-        "median": 20.4,
-        "roomCountCategory": "1"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "1971-1990",
+        "count": 166.0,
+        "std": 0.5,
+        "median": 22.1,
+        "q1": 20.0,
+        "roomCountCategory": "1",
         "quarterIds": [
             "50",
             "72",
@@ -1681,15 +1686,15 @@
             "80"
         ],
         "q3": 25.9,
-        "std": 0.5,
-        "count": 166.0,
-        "q1": 20.0,
-        "constructionPeriod": "1971-1990",
-        "median": 22.1,
-        "roomCountCategory": "1"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "> 1990",
+        "count": 202.0,
+        "std": 1.5,
+        "median": 24.2,
+        "q1": 22.3,
+        "roomCountCategory": "1",
         "quarterIds": [
             "50",
             "72",
@@ -1700,15 +1705,15 @@
             "80"
         ],
         "q3": 26.4,
-        "std": 1.5,
-        "count": 202.0,
-        "q1": 22.3,
-        "constructionPeriod": "> 1990",
-        "median": 24.2,
-        "roomCountCategory": "1"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "< 1946",
+        "count": 177.0,
+        "std": 0.5,
+        "median": 20.3,
+        "q1": 17.4,
+        "roomCountCategory": "2",
         "quarterIds": [
             "50",
             "72",
@@ -1719,15 +1724,15 @@
             "80"
         ],
         "q3": 23.1,
-        "std": 0.5,
-        "count": 177.0,
-        "q1": 17.4,
-        "constructionPeriod": "< 1946",
-        "median": 20.3,
-        "roomCountCategory": "2"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "1946-1970",
+        "count": 170.0,
+        "std": 0.9,
+        "median": 19.3,
+        "q1": 15.7,
+        "roomCountCategory": "2",
         "quarterIds": [
             "50",
             "72",
@@ -1738,15 +1743,15 @@
             "80"
         ],
         "q3": 22.2,
-        "std": 0.9,
-        "count": 170.0,
-        "q1": 15.7,
-        "constructionPeriod": "1946-1970",
-        "median": 19.3,
-        "roomCountCategory": "2"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "1971-1990",
+        "count": 132.0,
+        "std": 0.6,
+        "median": 19.0,
+        "q1": 16.9,
+        "roomCountCategory": "2",
         "quarterIds": [
             "50",
             "72",
@@ -1757,15 +1762,15 @@
             "80"
         ],
         "q3": 21.5,
-        "std": 0.6,
-        "count": 132.0,
-        "q1": 16.9,
-        "constructionPeriod": "1971-1990",
-        "median": 19.0,
-        "roomCountCategory": "2"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "> 1990",
+        "count": 120.0,
+        "std": 1.1,
+        "median": 21.8,
+        "q1": 18.7,
+        "roomCountCategory": "2",
         "quarterIds": [
             "50",
             "72",
@@ -1776,15 +1781,15 @@
             "80"
         ],
         "q3": 23.8,
-        "std": 1.1,
-        "count": 120.0,
-        "q1": 18.7,
-        "constructionPeriod": "> 1990",
-        "median": 21.8,
-        "roomCountCategory": "2"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "< 1946",
+        "count": 85.0,
+        "std": 0.7,
+        "median": 20.3,
+        "q1": 17.9,
+        "roomCountCategory": "3",
         "quarterIds": [
             "50",
             "72",
@@ -1795,15 +1800,15 @@
             "80"
         ],
         "q3": 22.7,
-        "std": 0.7,
-        "count": 85.0,
-        "q1": 17.9,
-        "constructionPeriod": "< 1946",
-        "median": 20.3,
-        "roomCountCategory": "3"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "1946-1970",
+        "count": 176.0,
+        "std": 0.8,
+        "median": 15.2,
+        "q1": 12.1,
+        "roomCountCategory": "3",
         "quarterIds": [
             "50",
             "72",
@@ -1814,15 +1819,15 @@
             "80"
         ],
         "q3": 18.0,
-        "std": 0.8,
-        "count": 176.0,
-        "q1": 12.1,
-        "constructionPeriod": "1946-1970",
-        "median": 15.2,
-        "roomCountCategory": "3"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "1971-1990",
+        "count": 86.0,
+        "std": 1.1,
+        "median": 17.9,
+        "q1": 12.4,
+        "roomCountCategory": "3",
         "quarterIds": [
             "50",
             "72",
@@ -1833,15 +1838,15 @@
             "80"
         ],
         "q3": 18.9,
-        "std": 1.1,
-        "count": 86.0,
-        "q1": 12.4,
-        "constructionPeriod": "1971-1990",
-        "median": 17.9,
-        "roomCountCategory": "3"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "> 1990",
+        "count": 52.0,
+        "std": 0.8,
+        "median": 18.6,
+        "q1": 17.3,
+        "roomCountCategory": "3",
         "quarterIds": [
             "50",
             "72",
@@ -1852,15 +1857,15 @@
             "80"
         ],
         "q3": 20.6,
-        "std": 0.8,
-        "count": 52.0,
-        "q1": 17.3,
-        "constructionPeriod": "> 1990",
-        "median": 18.6,
-        "roomCountCategory": "3"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "1946-1970",
+        "count": 107.0,
+        "std": 1.0,
+        "median": 15.4,
+        "q1": 11.6,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "50",
             "72",
@@ -1871,15 +1876,15 @@
             "80"
         ],
         "q3": 19.1,
-        "std": 1.0,
-        "count": 107.0,
-        "q1": 11.6,
-        "constructionPeriod": "1946-1970",
-        "median": 15.4,
-        "roomCountCategory": "4 et +"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "1971-1990",
+        "count": 57.0,
+        "std": 1.0,
+        "median": 15.5,
+        "q1": 12.3,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "50",
             "72",
@@ -1890,15 +1895,15 @@
             "80"
         ],
         "q3": 18.6,
-        "std": 1.0,
-        "count": 57.0,
-        "q1": 12.3,
-        "constructionPeriod": "1971-1990",
-        "median": 15.5,
-        "roomCountCategory": "4 et +"
+        "zoneId": "13"
     },
     {
-        "zoneId": "13",
+        "constructionPeriod": "> 1990",
+        "count": 80.0,
+        "std": 1.0,
+        "median": 17.3,
+        "q1": 15.2,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "50",
             "72",
@@ -1909,15 +1914,15 @@
             "80"
         ],
         "q3": 19.6,
-        "std": 1.0,
-        "count": 80.0,
-        "q1": 15.2,
-        "constructionPeriod": "> 1990",
-        "median": 17.3,
-        "roomCountCategory": "4 et +"
+        "zoneId": "13"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "1946-1970",
+        "count": 78.0,
+        "std": 1.3,
+        "median": 22.6,
+        "q1": 19.4,
+        "roomCountCategory": "1",
         "quarterIds": [
             "45",
             "47",
@@ -1925,15 +1930,15 @@
             "79"
         ],
         "q3": 25.0,
-        "std": 1.3,
-        "count": 78.0,
-        "q1": 19.4,
-        "constructionPeriod": "1946-1970",
-        "median": 22.6,
-        "roomCountCategory": "1"
+        "zoneId": "14"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "1971-1990",
+        "count": 110.0,
+        "std": 0.8,
+        "median": 22.9,
+        "q1": 20.3,
+        "roomCountCategory": "1",
         "quarterIds": [
             "45",
             "47",
@@ -1941,15 +1946,15 @@
             "79"
         ],
         "q3": 26.4,
-        "std": 0.8,
-        "count": 110.0,
-        "q1": 20.3,
-        "constructionPeriod": "1971-1990",
-        "median": 22.9,
-        "roomCountCategory": "1"
+        "zoneId": "14"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "< 1946",
+        "count": 143.0,
+        "std": 0.9,
+        "median": 20.5,
+        "q1": 14.8,
+        "roomCountCategory": "2",
         "quarterIds": [
             "45",
             "47",
@@ -1957,15 +1962,15 @@
             "79"
         ],
         "q3": 24.3,
-        "std": 0.9,
-        "count": 143.0,
-        "q1": 14.8,
-        "constructionPeriod": "< 1946",
-        "median": 20.5,
-        "roomCountCategory": "2"
+        "zoneId": "14"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "1946-1970",
+        "count": 179.0,
+        "std": 1.1,
+        "median": 19.8,
+        "q1": 16.9,
+        "roomCountCategory": "2",
         "quarterIds": [
             "45",
             "47",
@@ -1973,15 +1978,15 @@
             "79"
         ],
         "q3": 21.7,
-        "std": 1.1,
-        "count": 179.0,
-        "q1": 16.9,
-        "constructionPeriod": "1946-1970",
-        "median": 19.8,
-        "roomCountCategory": "2"
+        "zoneId": "14"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "1971-1990",
+        "count": 95.0,
+        "std": 0.8,
+        "median": 20.0,
+        "q1": 18.5,
+        "roomCountCategory": "2",
         "quarterIds": [
             "45",
             "47",
@@ -1989,15 +1994,15 @@
             "79"
         ],
         "q3": 22.2,
-        "std": 0.8,
-        "count": 95.0,
-        "q1": 18.5,
-        "constructionPeriod": "1971-1990",
-        "median": 20.0,
-        "roomCountCategory": "2"
+        "zoneId": "14"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "> 1990",
+        "count": 74.0,
+        "std": 1.5,
+        "median": 22.7,
+        "q1": 19.2,
+        "roomCountCategory": "2",
         "quarterIds": [
             "45",
             "47",
@@ -2005,15 +2010,15 @@
             "79"
         ],
         "q3": 24.9,
-        "std": 1.5,
-        "count": 74.0,
-        "q1": 19.2,
-        "constructionPeriod": "> 1990",
-        "median": 22.7,
-        "roomCountCategory": "2"
+        "zoneId": "14"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "< 1946",
+        "count": 88.0,
+        "std": 1.8,
+        "median": 19.6,
+        "q1": 14.8,
+        "roomCountCategory": "3",
         "quarterIds": [
             "45",
             "47",
@@ -2021,15 +2026,15 @@
             "79"
         ],
         "q3": 22.7,
-        "std": 1.8,
-        "count": 88.0,
-        "q1": 14.8,
-        "constructionPeriod": "< 1946",
-        "median": 19.6,
-        "roomCountCategory": "3"
+        "zoneId": "14"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "1946-1970",
+        "count": 89.0,
+        "std": 0.7,
+        "median": 18.1,
+        "q1": 16.3,
+        "roomCountCategory": "3",
         "quarterIds": [
             "45",
             "47",
@@ -2037,15 +2042,15 @@
             "79"
         ],
         "q3": 20.9,
-        "std": 0.7,
-        "count": 89.0,
-        "q1": 16.3,
-        "constructionPeriod": "1946-1970",
-        "median": 18.1,
-        "roomCountCategory": "3"
+        "zoneId": "14"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "1971-1990",
+        "count": 69.0,
+        "std": 2.2,
+        "median": 18.2,
+        "q1": 13.3,
+        "roomCountCategory": "3",
         "quarterIds": [
             "45",
             "47",
@@ -2053,15 +2058,15 @@
             "79"
         ],
         "q3": 20.5,
-        "std": 2.2,
-        "count": 69.0,
-        "q1": 13.3,
-        "constructionPeriod": "1971-1990",
-        "median": 18.2,
-        "roomCountCategory": "3"
+        "zoneId": "14"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "> 1990",
+        "count": 51.0,
+        "std": 1.0,
+        "median": 21.6,
+        "q1": 18.1,
+        "roomCountCategory": "3",
         "quarterIds": [
             "45",
             "47",
@@ -2069,15 +2074,15 @@
             "79"
         ],
         "q3": 22.3,
-        "std": 1.0,
-        "count": 51.0,
-        "q1": 18.1,
-        "constructionPeriod": "> 1990",
-        "median": 21.6,
-        "roomCountCategory": "3"
+        "zoneId": "14"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "1946-1970",
+        "count": 104.0,
+        "std": 0.7,
+        "median": 18.0,
+        "q1": 16.2,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "45",
             "47",
@@ -2085,15 +2090,15 @@
             "79"
         ],
         "q3": 20.9,
-        "std": 0.7,
-        "count": 104.0,
-        "q1": 16.2,
-        "constructionPeriod": "1946-1970",
-        "median": 18.0,
-        "roomCountCategory": "4 et +"
+        "zoneId": "14"
     },
     {
-        "zoneId": "14",
+        "constructionPeriod": "> 1990",
+        "count": 77.0,
+        "std": 0.3,
+        "median": 19.0,
+        "q1": 18.6,
+        "roomCountCategory": "4 et +",
         "quarterIds": [
             "45",
             "47",
@@ -2101,11 +2106,6 @@
             "79"
         ],
         "q3": 20.8,
-        "std": 0.3,
-        "count": 77.0,
-        "q1": 18.6,
-        "constructionPeriod": "> 1990",
-        "median": 19.0,
-        "roomCountCategory": "4 et +"
+        "zoneId": "14"
     }
 ]

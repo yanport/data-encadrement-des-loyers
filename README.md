@@ -14,7 +14,7 @@ pip install -r requirements.txt
 apt-get install pdftohtml
 ```
 
-# Générer les données soi-mêmes
+# Générer les données soi-même
 ```
 . scripts/make_drihl_json.sh
 . scripts/make_olap_json.sh

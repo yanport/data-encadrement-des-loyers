@@ -22,10 +22,9 @@ def parse_kml(response):
             attr_name = data.attrib['name']
 
             if attr_name in ['ref', 'refmaj', 'refmin']:
-                element[attr_name] = float(data.findtext('value').replace(',', '.'))
+                element[attr_name] = round(float(data.findtext('value').replace(',', '.')), 1)
             else:
                 element[attr_name] = data.findtext('value')
-
 
         parsed_data.append(element)
 
@@ -56,4 +55,4 @@ if __name__ == '__main__':
     output_file = sys.argv[1]
 
     with io.open(output_file, 'w', encoding='utf8') as f:
-        json.dump(fetch_and_parse_kml(), f, indent=4, ensure_ascii=False)
+        json.dump(fetch_and_parse_kml(), f, indent=4, ensure_ascii=False, sort_keys=True)
