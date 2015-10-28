@@ -6,6 +6,7 @@ Ces données sont redistribuées sous la licence OpenData [ODBL](http://www.vvli
 Réferences :
  - OLAP : http://www.observatoire-des-loyers.fr/
  - DRIHL : http://www.drihl.ile-de-france.developpement-durable.gouv.fr/le-dispositif-d-encadrement-des-loyers-a-paris-a3564.html
+ - Données fournies au format .ods (tableur) http://www.drihl.ile-de-france.developpement-durable.gouv.fr/IMG/ods/loyer_de_reference_arrete_cle22f64d.ods
 
 # Install
 ```
