@@ -1,12 +1,14 @@
 # Données brutes OLAP et DRIHL de l'encadrement des loyers
 Parce que l'Etat et/ou observatoires ne sont pas capables ou ne veulent pas publier correctement leurs données.
 
+Les données 2015 et 2016 de l'encadrement des loyers à Paris sont compilées dans un [data/encadrement_loyers_paris.csv](fichier CSV).
+
 Ces données sont redistribuées sous la licence OpenData [ODBL](http://www.vvlibri.org/fr/licence/odbl/10/fr/legalcode).
 
 Réferences :
  - OLAP : http://www.observatoire-des-loyers.fr/
  - DRIHL : http://www.drihl.ile-de-france.developpement-durable.gouv.fr/le-dispositif-d-encadrement-des-loyers-a-paris-a3564.html
- - Données fournies au format .ods (tableur) http://www.drihl.ile-de-france.developpement-durable.gouv.fr/IMG/ods/loyer_de_reference_arrete_cle22f64d.ods
+
 
 # Install
 ```
@@ -16,6 +18,6 @@ apt-get install pdftohtml
 
 # Générer les données soi-même
 ```
-. scripts/make_drihl_json.sh
+python scripts/parse_drihl_medians.py data/encadrement_loyers_paris.csv
 . scripts/make_olap_json.sh
 ```
