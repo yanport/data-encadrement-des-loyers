@@ -1,4 +1,4 @@
-idZone,nameZone,idQuartier,piece,epoque,type,2015_ref,2016_ref,2015_refmin,2016_refmin,2015_refmaj,2016_refmaj
+idZone,nameZone,idQuartier,piece,epoque,type,ref_2015,ref_2016,refmin_2015,refmin_2016,refmaj_2015,refmaj_2016
 1,Notre-Dame-des-Champs,23,1 pièce,avant 1946,Non meublée,31.3,31.6,21.9,22.1,37.6,37.9
 1,Saint-Thomas-d'Aquin,25,1 pièce,avant 1946,Non meublée,31.3,31.6,21.9,22.1,37.6,37.9
 1,Invalides,26,1 pièce,avant 1946,Non meublée,31.3,31.6,21.9,22.1,37.6,37.9

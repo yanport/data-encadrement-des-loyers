@@ -40,7 +40,7 @@ def parse_kml(response, year):
             attr_name = data.attrib['name']
 
             if attr_name in ['ref', 'refmaj', 'refmin']:
-                element['%s_%s' %(year, attr_name)] = round(float(data.findtext('value').replace(',', '.')), 1)
+                element['%s_%s' %(attr_name, year)] = round(float(data.findtext('value').replace(',', '.')), 1)
             else:
                 element[attr_name] = data.findtext('value')
 
