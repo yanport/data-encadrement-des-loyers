@@ -10,8 +10,8 @@ Ces données sont redistribuées sous la licence OpenData [ODBL](http://www.vvli
 Réferences :
  - OLAP : http://www.observatoire-des-loyers.fr/
  - DRIHL : http://www.drihl.ile-de-france.developpement-durable.gouv.fr/le-dispositif-d-encadrement-des-loyers-a-paris-a3564.html
- - Arrêté préfectoral 2015 en bon vieux pdf : http://www.drihl.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/Arrete_no2015_176_-_0007_cle5d1377.pdf
- - Arrêté préfectoral 2015 en bon vieux pdf : http://www.drihl.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/recueil-idf-033-2016-06-raa-special-pdf_cle076ba9.pdf
+ - Arrêté préfectoral 2015 : http://www.drihl.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/Arrete_no2015_176_-_0007_cle5d1377.pdf
+ - Arrêté préfectoral 2016 : http://www.drihl.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/recueil-idf-033-2016-06-raa-special-pdf_cle076ba9.pdf
 
 
 NB : les géométries des quartiers de Paris disponible sur le portail de l'APUR : http://cassini.apur.opendata.arcgis.com/datasets/12f1272266204fbe951d8e9d172c7826_0
