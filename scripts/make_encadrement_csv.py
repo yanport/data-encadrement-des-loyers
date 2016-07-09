@@ -35,12 +35,12 @@ def parse_kml(response, year):
     parsed_data = []
 
     for extended_data in document.findall('.//Placemark/ExtendedData'):
-        element = {}
+        element = {'annee': year}
         for data in extended_data.getchildren():
             attr_name = data.attrib['name']
 
             if attr_name in ['ref', 'refmaj', 'refmin']:
-                element['%s_%s' %(attr_name, year)] = round(float(data.findtext('value').replace(',', '.')), 1)
+                element[attr_name] = round(float(data.findtext('value').replace(',', '.')), 1)
             else:
                 element[attr_name] = data.findtext('value')
 
@@ -55,22 +55,15 @@ def fetch_and_parse_kml():
     print("#{0} pages to download".format(total))
 
     count = 0
-    for room_count, period, furnished in itertools.product(range(1, 5), Period, [False, True]):
-        results_by_year = []
-        for year in [2015, 2016]:
-            count += 1
-            url = build_drihl_url(year, room_count, period, furnished)
+    for room_count, period, furnished, year in itertools.product(range(1, 5), Period, [False, True], [2015, 2016]):
+        count += 1
+        url = build_drihl_url(year, room_count, period, furnished)
 
-            print ("download url {0} - {1}/{2}".format(url, count, total))
+        print ("download url {0} - {1}/{2}".format(url, count, total))
 
-            response = requests.get(url)
+        response = requests.get(url)
 
-            results_by_year.append(parse_kml(response, year))
-
-        for row_2015, row_2016 in zip(results_by_year[0], results_by_year[1]):
-            row_2015.update(row_2016)
-
-        output += results_by_year[0]
+        output += parse_kml(response, year)
 
     return output
 
@@ -81,6 +74,6 @@ if __name__ == '__main__':
     with io.open(output_file, 'w', encoding='utf8') as csvfile:
         data = fetch_and_parse_kml()
 
-        writer = csv.DictWriter(csvfile, fieldnames=['idZone', 'nameZone', 'idQuartier', 'piece', 'epoque', 'type', 'ref_2015', 'ref_2016', 'refmin_2015', 'refmin_2016', 'refmaj_2015', 'refmaj_2016'])
+        writer = csv.DictWriter(csvfile, fieldnames=['idZone', 'nameZone', 'idQuartier', 'piece', 'epoque', 'type', 'annee', 'ref', 'refmin', 'refmaj'])
         writer.writeheader()
         writer.writerows(data)
