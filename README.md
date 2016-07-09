@@ -14,7 +14,7 @@ Réferences :
  - Arrêté préfectoral 2016 : http://www.drihl.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/recueil-idf-033-2016-06-raa-special-pdf_cle076ba9.pdf
 
 
-NB : les géométries des quartiers de Paris disponible sur le portail de l'APUR : http://cassini.apur.opendata.arcgis.com/datasets/12f1272266204fbe951d8e9d172c7826_0
+NB : les géométries des quartiers de Paris sont disponibles sur le portail de l'APUR : http://cassini.apur.opendata.arcgis.com/datasets/12f1272266204fbe951d8e9d172c7826_0
 
 # Install sous python3
 ```
