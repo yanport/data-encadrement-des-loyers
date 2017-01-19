@@ -1,5 +1,6 @@
-# Données brutes [OLAP](http://www.observatoire-des-loyers.fr/) et du [Ministère du logement](http://www.logement.gouv.fr/) de l'encadrement des loyers
-Parce que l'Etat et/ou observatoires ne sont pas capables ou ne veulent pas publier correctement leurs données.
+## Données brutes [OLAP](http://www.observatoire-des-loyers.fr/) et du [Ministère du logement](http://www.logement.gouv.fr/) de l'encadrement des loyers
+
+**Parce que l'Etat et/ou observatoires ne sont pas capables ou ne veulent pas publier correctement leurs données.**
 
 Depuis 2016, Le Ministère du logement a mis en ligne un site pour permettre à chacun de savoir si un loyer est compris dans l'encadrement. C'est une très bonne initiative mais toujours pas de données en #OpenData. 
 
@@ -14,7 +15,7 @@ Réferences :
  - Site de l'encadrement des loyers : http://www.encadrementdesloyers.gouv.fr/
  - Arrêté préfectoral 2015 - Paris : http://www.drihl.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/Arrete_no2015_176_-_0007_cle5d1377.pdf
  - Arrêté préfectoral 2016 - Paris : http://www.drihl.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/recueil-idf-033-2016-06-raa-special-pdf_cle076ba9.pdf
-  - Arrêté préfectoral 2016 - Lille : http://nord.gouv.fr/content/download/39271/272349/file/161216_arrete_encadrement_des_loyers_lille.pdf
+ - Arrêté préfectoral 2016 - Lille : http://nord.gouv.fr/content/download/39271/272349/file/161216_arrete_encadrement_des_loyers_lille.pdf
 
 
 NB : les géométries des quartiers de Paris sont aussi disponibles sur le portail de l'APUR : http://cassini.apur.opendata.arcgis.com/datasets/12f1272266204fbe951d8e9d172c7826_0
