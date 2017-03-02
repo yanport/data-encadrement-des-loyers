@@ -329,7 +329,7 @@ def write_geojson(data, filename):
 
             geojson["features"].append(feature)
 
-        json.dump(geojson, json_file, indent=2)
+        json.dump(geojson, json_file, indent=2, ensure_ascii=False)
 
 
 if __name__ == '__main__':
