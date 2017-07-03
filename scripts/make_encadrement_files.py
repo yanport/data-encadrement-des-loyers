@@ -11,7 +11,7 @@ import sys
 
 from enum import Enum
 
-URL = 'http://preprod.www.encadrementloyers.com.wdf-01.ovea.com/'
+URL = 'http://www.encadrementloyers.com.wdf-01.ovea.com/'
 HEADERS = {'X-Requested-With': 'XMLHttpRequest'}
 
 
@@ -263,7 +263,8 @@ def fetch_encadrement():
         dates = [2017]
 
         if city == City.PARIS:
-            dates = [2015, 2016]
+            # don't ask me why it's now 2018...
+            dates = [2015, 2016, 2018]
 
         for (quarter, room_count, period, furnished, date) in itertools.product(quarters, ROOM_COUNTS, PERIODS, [0, 1], dates):
             print(quarter['name'], period, room_count, date, furnished)
@@ -281,6 +282,7 @@ def fetch_encadrement():
             request_data.update(result)
             request_data['quarter'] = quarter
             request_data['ville'] = city.name
+            request_data['date'] = 2017 if request_data['date'] == 2018 else request_data['date']
 
             data.append(request_data)
 
