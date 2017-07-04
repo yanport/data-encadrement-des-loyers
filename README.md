@@ -8,7 +8,7 @@ Vous trouverez ici les données 2015 et 2016 de l'encadrement des loyers à Pari
 
 Vous trouverez également les données 2015 de l'OLAP sont disponibles dans un [fichier json](data/2015_olap_medians.json). L'OLAP n'a rien publié pour 2016.
 
-Ces données sont redistribuées sous la licence OpenData [ODBL](http://www.vvlibri.org/fr/licence/odbl/10/fr/legalcode).
+**Ces données sont redistribuées sous la licence OpenData [ODBL](http://www.vvlibri.org/fr/licence/odbl/10/fr/legalcode)**.
 
 Réferences :
  - OLAP : http://www.observatoire-des-loyers.fr/
