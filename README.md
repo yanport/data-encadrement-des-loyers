@@ -4,7 +4,7 @@
 
 Depuis 2016, Le Ministère du logement a mis en ligne un site pour permettre à chacun de savoir si un loyer est compris dans l'encadrement. C'est une très bonne initiative mais le ministère n'est toujours pas capable de publier des données propres, exploitable, en gros en #OpenData. 
 
-Vous trouverez ici les données 2015 et 2016 de l'encadrement des loyers à Paris et à Lille extraite du site http://www.encadrementdesloyers.gouv.fr/ et compilées dans un [fichier CSV](data/encadrement_loyers.csv) et un [fichier geojson](data/encadrement_loyers.geojson)
+Vous trouverez ici les données 2015, 2016 et 2017 de l'encadrement des loyers à Paris et à Lille extraite du site http://www.encadrementdesloyers.gouv.fr/ et compilées dans un [fichier CSV](data/encadrement_loyers.csv) et un [fichier geojson](data/encadrement_loyers.geojson)
 
 Vous trouverez également les données 2015 de l'OLAP sont disponibles dans un [fichier json](data/2015_olap_medians.json). L'OLAP n'a rien publié pour 2016.
 
